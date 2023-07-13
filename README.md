@@ -1,5 +1,5 @@
 # Music Cubelets
-Bach Minuet played on Cubelets.
+Bach Minuet played on Cubelets and codes used for random music generation alone and with automatons.
 
 Created by Rodrigo Sánchez Torres ( rodrigosanchez315@yahoo.com.mx )
 At Artificial Robotics Laboratory, Escuela Superior de Cómputo, Instituto Politécnico Nacional 
